@@ -1,0 +1,24 @@
+# Dataset
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+ml_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
